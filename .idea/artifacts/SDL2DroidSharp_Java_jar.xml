@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SDL2DroidSharp-Java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SDL2DroidSharp_Java_jar</output-path>
+    <root id="archive" name="SDL2DroidSharp-Java.jar">
+      <element id="module-output" name="SDL2DroidSharp-Java" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
