@@ -564,10 +564,10 @@ class HIDDeviceBLESteamController extends BluetoothGattCallback implements HIDDe
         return "Steam Controller";
     }
 
-	@Override
+    @Override
     public UsbDevice getDevice() {
-		return null;
-	}
+        return null;
+    }
 
     @Override
     public boolean open() {
@@ -647,3 +647,4 @@ class HIDDeviceBLESteamController extends BluetoothGattCallback implements HIDDe
     }
 
 }
+
